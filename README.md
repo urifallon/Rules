@@ -3,8 +3,8 @@
 
 **Phiên bản:** 1.0  
 **Ngày cập nhật:** 15/10/2025  
-**Người soạn:** IT Infrastructure Team  
-**Phạm vi áp dụng:** Toàn bộ hệ thống VMware vSphere Production
+**Người soạn:** Intern IT Infrastructure  
+**Phạm vi áp dụng:** Toàn bộ hệ thống VMware vSphere (developer)
 
 ---
 
